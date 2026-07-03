@@ -51,6 +51,9 @@ Pull request!
 - [💰 Live Wallpaper](https://apps.apple.com/ca/app/live-wallpaper-themes-4k/id1456235760?mt=12) | Similar to Wallpaper Engine, dynamic wallpapers
 - [💰⭐️ Lunar](https://lunar.fyi) | Intelligent adaptive brightness for your external monitors
 
+### 📁 Finder
+- [⭐️ SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) | Quick Look extension for highlight source code files.
+
 ### 🎮 Gaming
 - [Dolphin Ctrl Server](https://github.com/apexskier/dolphin-controller) | Server to use phone as controller in dolphin emulator
 - [Dolphin Emulator](https://dolphin-emu.org) | Wii and gamecube emulator

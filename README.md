@@ -52,6 +52,7 @@ Pull request!
 - [💰⭐️ Lunar](https://lunar.fyi) | Intelligent adaptive brightness for your external monitors
 
 ### 📁 Finder
+- [Burrete](https://github.com/SergeiNikolenko/Burrete) | Molecular structure, trajectory, and chemistry-table previews in Finder Quick Look.
 - [⭐️ SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) | Quick Look extension for highlight source code files.
 
 ### 🎮 Gaming
@@ -158,6 +159,5 @@ Pull request!
 - [💰 SnapHotkey](https://snaphotkey.com) | Assign keyboard shortcuts directly to apps — press once to focus, press again to hide. Distinguishes Left/Right modifier keys for double the shortcut slots
 - [💰 Swish](https://highlyopinionated.co/swish/) | Trackpad based windows tiling along with commands
 - [💰 Wins](https://wins.cool) | A Brand New Window Manager for macOS. Bring System-level Arrange Window features to Mac. Dock Window Previewer.Shake to hide other windows. Floating Split Window and more
-
 
 
